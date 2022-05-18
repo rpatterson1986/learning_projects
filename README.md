@@ -3,7 +3,7 @@ Various personal projects related to data analysis and data science.
 
 If you've taken the time to reveiw this repository, I'd like to say thank you!
 
-In the following weeks/months as I'm learning more to further my skillset as a data analyst, I'll be aiming to upload more work to share and as reference to any furture potentioal employers. The work in this repository is primary for learning purposes. A lot of "unfinished" work will be placed here. I'll have any completed work listed in a separate repository or its own.
+In the following weeks/months as I'm learning more to further my skillset as a data analyst, I'll be aiming to upload more work to share and as reference for any furture potential employers. The work in this repository is primarily for learning purposes. A lot of "unfinished" work will be placed here. I'll have any completed work listed in a separate repository or as a portfolio piece.
 
 Again, thank you for taking the time to review my first data analysis project. Even not fully completed, just wanted to start putting up stuff on here.
 
