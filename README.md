@@ -1,5 +1,5 @@
 # learning_projects
-Various personal projects related data analysis and data science.
+Various personal projects related to data analysis and data science.
 
 If you've taken the time to reveiw this repository, I'd like to say thank you!
 
